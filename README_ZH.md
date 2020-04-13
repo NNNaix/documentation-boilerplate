@@ -14,9 +14,9 @@
 
 Some personal prefered common documentation boilerplate:
 
-- [Readme](/en/readme)
+- [Readme](/en_template/readme)
 - [Pull Request](/en_template/pull_request)
-- [Issue](/en/issue)
+- [Issue](/en_template/issue)
 
 ### 2. Use CLI
 
