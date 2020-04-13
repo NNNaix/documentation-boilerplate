@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to document boilerplate 👋</h1>
+<h1 align="center">Welcome to documentation boilerplate 👋</h1>
 <p align="center">
-   —— Personal preferences common document boilerplate ——
+   —— Personal preferences common documentation boilerplate ——
 </p>
 <h6 align="center"> 🌐 English | <a href="/README_ZH.md">简体中文</a></h4>
 
