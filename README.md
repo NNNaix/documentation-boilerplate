@@ -2,7 +2,7 @@
 <p align="center">
    —— Personal preferences common document boilerplate ——
 </p>
-<h6 align="center"> 🌐 English | <a href="/README_zh.md">简体中文</a></h4>
+<h6 align="center"> 🌐 English | <a href="/README_ZH.md">简体中文</a></h4>
 
 ## 🔨 Usage
 
