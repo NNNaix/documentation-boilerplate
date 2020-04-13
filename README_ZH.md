@@ -29,6 +29,7 @@ Some personal prefered common documentation boilerplate:
 <p align="center">
 <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
 </p>
+
 ##### Generated `README.md`:
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
