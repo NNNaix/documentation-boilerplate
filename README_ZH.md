@@ -61,10 +61,6 @@ Some CLI tools for auto generating document files.
   - [Changelog](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/CHANGELOG.md)
   - [TODO](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/TODO.md)
 
-## 🌐 Internaitional(todo)
-
-- English
-- 简体中文
 
 ## 📝 License
 
