@@ -18,7 +18,8 @@
 <p align="center"> Few lines describing your project.
     <br> 
 </p>
-<h6 align="center"> 🌐 English | <a href="/README_zh.md">简体中文</a></h4>
+
+<h4 align="center"> 🌐 English | <a href="/README_zh.md">简体中文</a></h4>
 
 
 ## 🧐 About <a name = "about"></a>

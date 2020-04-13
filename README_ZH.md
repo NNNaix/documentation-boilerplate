@@ -5,7 +5,7 @@
    —— Personal prefered common documentation boilerplate ——
 </p>
 
-<h6 align="center"> 🌐 简体中文 | <a href="/README.md">English</a></h4>
+<h4 align="center"> 🌐 简体中文 | <a href="/README.md">English</a></h4>
 
 
 ## 🔨 Usage
