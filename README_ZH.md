@@ -1,8 +1,13 @@
 <h1 align="center">Welcome to document boilerplate 👋</h1>
+
+
 <p align="center">
    —— Personal preferences common document boilerplate ——
 </p>
-<h6 align="center"> 🌐 English | <a href="/README_zh.md">简体中文</a></h4>
+
+<h6 align="center"> 🌐 简体中文 | <a href="/README.md">English</a></h4>
+
+
 ## 🔨 Usage
 
 ### 1. Use Templates
@@ -52,6 +57,11 @@ Some personal prefered common documentation boilerplate:
   - [Codebase Structure](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/CODEBASE_STRUCTURE.md)
   - [Changelog](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/CHANGELOG.md)
   - [TODO](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/TODO.md)
+
+## 🌐 Internaitional(todo)
+
+- English
+- 简体中文
 
 ## 📝 License
 
