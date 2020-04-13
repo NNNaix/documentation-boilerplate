@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to documentation boilerplate 👋</h1>
 <p align="center">
-   —— Personal preferences common documentation boilerplate ——
+   —— Personal prefered common documentation boilerplate ——
 </p>
 <h6 align="center"> 🌐 English | <a href="/README_ZH.md">简体中文</a></h4>
 
@@ -15,6 +15,8 @@ Some personal prefered common documentation boilerplate:
 - [Issue](/en/issue)
 
 ### 2. Use CLI
+
+Some CLI tools for auto generating document files.
 
 #### Readme
 
