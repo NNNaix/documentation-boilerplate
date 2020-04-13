@@ -59,4 +59,5 @@ Some personal prefered common documentation boilerplate:
 ## 📝 License
 
 [MIT License](/LICENSE).
+
 Copyright © 2020 [NNNaix](https://github.com/nnnaix).

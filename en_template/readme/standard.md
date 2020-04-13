@@ -96,4 +96,5 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 ## 📝 License
 
 [MIT License](/LICENSE).
+
 Copyright © 2020 [NNNaix](https://github.com/nnnaix).
